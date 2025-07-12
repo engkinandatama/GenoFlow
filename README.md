@@ -229,7 +229,7 @@ If you use GenoFlow in your research, please cite:
 ```bibtex
 @software{genoflow2025,
   title={GenoFlow: Modular De Novo Genome Assembly and Annotation Pipeline},
-  author={Your Name},
+  author={Nandatama, Engki},
   year={2025},
   url={https://github.com/engkinandatama/genoflow},
   version={1.0.0}
@@ -244,15 +244,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Tools Integration**: SPAdes, Prokka, QUAST, and all incorporated tools
 - **Communities**: Bioinformatics Stack Exchange, Galaxy Project
-- **Funding**: [Your Institution/Grant Information]
 - **Contributors**: See [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ## 📞 **Contact & Support**
 
-- **📧 Email**: your.email@institution.edu
 - **🐛 Issues**: [GitHub Issues](https://github.com/engkinandatama/genoflow/issues)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/engkinandatama/genoflow/discussions)
-- **📱 Twitter**: [@YourTwitter](https://twitter.com/yourtwitter)
 
 ## 🔗 **Related Projects**
 
